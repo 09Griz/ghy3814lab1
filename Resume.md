@@ -31,7 +31,7 @@ Detail-oriented and motivated GIS student with strong classroom training in spat
 ## Experience  
 
 **GIS/Surveying Intern – Drexell and Barrel, Colorado Springs, CO** *(Summer 2025)*  
-<img src="/Drexel-Barrell-&-Co-Logo.png" width="100"/>
+<img src="Drexel-Barrell-&-Co-Logo.png" width="100"/>
 
 - Operated **Trimble equipment** including Rover, GPS, and Radio for accurate field surveying.  
 - Collected, integrated, and georeferenced GPS survey data into **geodatabases**.  
@@ -51,3 +51,4 @@ Detail-oriented and motivated GIS student with strong classroom training in spat
 **Golf Caddie** *(Summer Employment, 2017–2019)*  
 - Developed analytical skills by reading greens and making strategic recommendations.  
 - Strengthened interpersonal communication by assisting clients in high-end service environments.  
+
